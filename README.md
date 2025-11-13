@@ -91,3 +91,17 @@ plot2d3('gnn',r);
 <img width="1388" height="773" alt="image" src="https://github.com/user-attachments/assets/a436349e-8aa1-487b-83e3-4ed02167ef84" />
 
 <img width="743" height="598" alt="Screenshot 2025-11-04 103155" src="https://github.com/user-attachments/assets/91b77a7f-728f-4e64-bdd5-d644cb5e4be9" />
+
+# TABULATION:
+
+![WhatsApp Image 2025-11-13 at 08 46 41_23d10642](https://github.com/user-attachments/assets/6270141d-87a7-4540-9c13-cb25bcb21b93)
+
+# CALCULATION:
+
+![AC-1](https://github.com/user-attachments/assets/e6628d1a-d418-4615-a060-9785a52e02c4)
+
+![WhatsApp Image 2025-11-13 at 08 46 40_41bc16c2](https://github.com/user-attachments/assets/15e4b39a-745e-4276-b5ec-50ac9fd1fc30)
+
+# RESULT:
+
+The mean and variance of X and Y were calculated successfully, and the correlation coefficient between X and Y is 1, showing perfect positive correlation.
